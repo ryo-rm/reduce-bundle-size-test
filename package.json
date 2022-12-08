@@ -11,7 +11,7 @@
   "dependencies": {
     "expo": "~47.0.8",
     "expo-status-bar": "~1.4.2",
-    "newrelic-react-native-agent": "0.0.8",
+    "newrelic-react-native-agent": "https://github.com/ryo-rm/newrelic-react-native-agent",
     "react": "18.1.0",
     "react-native": "0.70.5"
   },
